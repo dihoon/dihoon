@@ -30,7 +30,7 @@ I wish all the best for the people who read this.
 
 
 <!-- 문제 해결 능력 (백준 티어) -->
-<h2> problem-solving skills </h2>
+<h2> problem-solving level </h2>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dihoon)](https://solved.ac/dihoon)
