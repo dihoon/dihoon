@@ -26,7 +26,8 @@ I wish all the best for the people who read this.
 <!-- 사용 가능한 툴  -->
 <h2> Tools </h2>
 <div align = left>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">  
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 </div>
 
 
