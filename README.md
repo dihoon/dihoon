@@ -6,7 +6,7 @@
 
 <p align="center">
  Hi there 👋 I'm <b>dihoon</b> <br/>
- I'm not majoring in Computer Science, <br/>
+ I didn't majored in Computer Science, <br/>
  but I am interested in <b>Front-End Development </b><br/>
 </p>
 
